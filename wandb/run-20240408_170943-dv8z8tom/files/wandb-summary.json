@@ -1,0 +1,1 @@
+{"Batch Loss": 0.5826993584632874, "Batch Accuracy": 83.92857142857143, "_timestamp": 1712585837.8700004, "_runtime": 454.78832745552063, "_step": 10979, "Test Loss": 0.8558426938374837, "Test Accuracy": 71.28, "Epoch": 19, "Validation Loss": 0.8558426938374837, "Validation Accuracy": 71.28, "_wandb": {"runtime": 453}}
